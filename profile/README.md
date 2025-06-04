@@ -10,11 +10,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-HomeSynk
 Welcome to HomeSynk, your No. 1 Property Management Platform!
 Transform your property management experience with our intuitive, all-in-one solution. Save time, maximize your investment, and manage effortlessly.
 
-🚀 About HomeSynk
+🚀 About HomeSynk:
 HomeSynk was created with a mission to redefine property management through simplicity, innovation, and efficiency. Whether you’re a property owner, manager, or tenant, HomeSynk provides a seamless experience to manage properties effortlessly.
 
 Our platform combines powerful features with a user-friendly design to support every aspect of property management. From tracking maintenance requests to managing lease agreements and payments, HomeSynk keeps everything in sync to save you time and maximize your property’s value.
